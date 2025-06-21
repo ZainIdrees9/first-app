@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Welcome to the first react app</h1>
       <div className="firstDiv">First div</div>
+      <div className="firstDiv">Second div</div>
     </div>
   );
 }
